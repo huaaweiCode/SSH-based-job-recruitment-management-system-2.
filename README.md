@@ -1,10 +1,5 @@
 # 基于SSH的求职招聘管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**求职2**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -63,10 +58,4 @@
 ![管理员-友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538142.jpg)
 
 ![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206121538598.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**求职2**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
